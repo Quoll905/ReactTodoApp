@@ -1,0 +1,33 @@
+.single-element_container{
+    margin: 17px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: white;
+    border-radius: 15px;
+}
+
+.single-element_info{
+    width: 70vw;
+    text-align: center;
+    overflow: hidden;
+}
+
+.single-element_button{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.button_done{
+    background-color: blue;
+    font-size: 1.6em;
+}
+
+.button_delete{
+    background-color: darkred;
+    color: white;
+    font-size: 1.6em;
+}
+

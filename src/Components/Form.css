@@ -1,0 +1,28 @@
+.form{
+  margin-top: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form_input{
+  width: 74vw;
+  font-size: 1.6em;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.form_button{
+  height: 100%;
+  margin: 0;
+  margin-left: 10px;
+  font-size: 1.6em;
+  background-color: darkgreen;
+  color: aliceblue;
+  border-radius: 10px;
+}
+
+.form_button:hover{
+  background-color: blue;
+  color: black;
+}
